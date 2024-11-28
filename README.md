@@ -1,2 +1,2 @@
 # Gini-chatbot
-Created a Chatbot front end using HTML, CSS, Javascript
+Created a Chatbot frontend using HTML, CSS, Javascript
